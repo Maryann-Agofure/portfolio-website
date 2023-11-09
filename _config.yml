@@ -1,0 +1,9 @@
+# Site settings
+"title: Maryann\'s Portfolio"
+author:
+  name: Maryann Agofure
+  email: maryannagofure@gmail.com
+description: "A site showcasing my work."
+
+# Build settings
+remote_theme: jekyll/minima
