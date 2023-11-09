@@ -1,8 +1,8 @@
 ---
 layout: home 
 ---
-# Maryann Agofure- Technical writer and communicator
-## Know me
+
+## Get the scoop on me
 A sample paragraph about me
 
 ## Check out my work
