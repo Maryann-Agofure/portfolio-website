@@ -1,7 +1,6 @@
 ---
 layout: home 
 ---
-# Maryann Agofure- Technical writer and communicator
 
 ## **The scoop**
 I am a technical writer who explains technical documentation as easily as possible for various levels of users through thorough research. Empathy is one of the most vital communicative skills, so I always aim to teach concepts or explain things in the easiest way that addresses my audience's pain points without losing the context of the tools or processes.
