@@ -4,7 +4,7 @@ title: Maryann Agofure - Technical writer and communicator
 ---
 
 ## **The scoop**
-I am a technical writer who explains technical documentation as easily as possible for various levels of users through thorough research. Empathy is one of the most vital communicative skills, so I always aim to teach concepts or explain things in the easiest way that addresses my audience's pain points without losing the context of the tools or processes.
+I am a technical writer who explains technical concepts as easily as possible for various levels of users through thorough research. Empathy is one of the most vital communicative skills, so I always aim to teach and explain complex terms in the easiest way that addresses my audience's pain points and showcases business value without losing the context of the tools or processes.
 I started learning frontend development before finding my way to the cloud and finally writing about technology concepts, tools, and processes.
 My customers range from small businesses to SaaS businesses, cutting across databases, cloud computing, security, etc. Ghost-written articles are available on request.
 
@@ -15,6 +15,7 @@ My customers range from small businesses to SaaS businesses, cutting across data
     - [A Beginners introduction to Glasp](https://maryann.hashnode.dev/a-beginners-introduction-to-glasp-the-social-media-web-highlighter-clh6gfwjj000209md8y0u3o5v)
     - [Deploy a static website on AWS S3](https://medium.com/@maryannagofure/deploying-a-static-website-on-aws-s3-bucket-dedeb2307fe5)
 - API Documentation and Case studies
+- Whitepapers
 - Release Notes
 
 ## **Hear from people I've worked with**
@@ -23,5 +24,6 @@ My customers range from small businesses to SaaS businesses, cutting across data
 
 ## **Let's work together**
 - [LinkedIn](https://www.linkedin.com/in/agofure-maryann-67b144164/)
+- [Resume](https://docs.google.com/document/d/1hJ3wiGlUl5o1UCBeAhh0PkVHrgSY5160eU888qFygXo/edit?usp=sharing)
 - [Github](https://github.com/Maryann-Agofure)
 
