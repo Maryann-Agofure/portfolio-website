@@ -14,6 +14,7 @@ My customers range from small businesses to SaaS businesses, cutting across data
     - [Gain more out of Streaming Data with reusable Connectors](https://streamsets.com/blog/streaming-data-with-reusable-connectors/#:~:text=Streaming%20Data%20Using%20Reusable%20Connectors&text=Connectors%20help%20different%20systems%20exchange,reduce%20the%20risk%20of%20errors.)
     - [A Beginners introduction to Glasp](https://maryann.hashnode.dev/a-beginners-introduction-to-glasp-the-social-media-web-highlighter-clh6gfwjj000209md8y0u3o5v)
     - [Deploy a static website on AWS S3](https://medium.com/@maryannagofure/deploying-a-static-website-on-aws-s3-bucket-dedeb2307fe5)
+- Documentation sites
 - API Documentation and Case studies
 - Whitepapers
 - Release Notes
