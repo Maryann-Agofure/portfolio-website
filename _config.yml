@@ -7,3 +7,8 @@ description: "Personal website"
 
 # Build settings
 remote_theme: jekyll/minima
+
+header_pages:
+  - index.md
+  - work.html
+  - contact.html
