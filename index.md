@@ -1,6 +1,5 @@
 ---
 layout: home 
-title: Maryann Agofure - Technical writer and communicator
 ---
 
 ## **The scoop**
